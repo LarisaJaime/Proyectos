@@ -1,0 +1,154 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#mujer_profesional {
+    border: 3px solid black;
+    border-radius: 150px;
+    display: block;
+    margin:auto;
+}
+
+#fondo_superior {
+    height: 100px;
+    width: 100%;
+}
+h1 { 
+    font-weight: bold;
+    padding: 6px;
+    color:black;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+    margin: -15px 20px;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+
+}
+
+p  {
+    font-style: italic ;
+    text-align: center;
+}
+
+aside  {
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+h3 {
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    font-family: 'Libre Franklin', sans-serif;
+    padding-top: 10px;
+    border-radius: 10px;
+    background: blanchedalmond;
+    border: 5px black;
+}
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#recursos_humanos {
+    vertical-align: top;
+    height: 100px;
+}
+  
+  .Barra_Navegacion_a {
+    display: inline-block;
+    background-color: rgb(247, 150, 150);
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+
+  }
+  .Barra_Navegacion_a:hover {
+    background-color: rosybrown;
+  }
+  nav {
+    background: papayawhip;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium';
+  }
+  .boton_extras {
+    background: crimson;
+    color: antiquewhite;
+    padding: 10px 0;
+    border: 2px solid crimson;
+    border-radius: 5px;
+    width: 100px;
+  }
+  .boton_extras:hover {
+    background-color: rosybrown;
+  }
+  .boton_referencias {
+    background: crimson;
+    color: antiquewhite;
+    padding: 10px 0;
+    border: 2px solid crimson;
+    border-radius: 5px;
+    width: 100px;
+  }
+  .boton_referencias:hover {
+    background-color: rosybrown;
+  }
+
+.div_gral{
+    background-color: rgb(225, 222, 188);
+    border-radius: 15px;
+}
+.div_superior {
+    text-align: center;
+}
+.a_secciones {
+    font-family: 'Franklin Gothic Medium';
+}
+.div_medio {
+    height: 100px;
+    background-image: url("https://media.istockphoto.com/id/1159644956/es/foto/la-escuela-proporciona-el-borde-inferior-vista-superior-sobre-un-fondo-blanco-con-espacio-de.jpg?s=170667a&w=0&k=20&c=nUEvUFLHRkDNr3NsqTBcYLouZKPggXTA6-Nd-GJ-u8M=") ;
+    background-repeat: no-repeat;   
+    background-size: 100% 100%;
+}
+
+.div_footer {
+    height: 100px;
+    /* background-image: url("https://media.istockphoto.com/id/1159644956/es/foto/la-escuela-proporciona-el-borde-inferior-vista-superior-sobre-un-fondo-blanco-con-espacio-de.jpg?s=170667a&w=0&k=20&c=nUEvUFLHRkDNr3NsqTBcYLouZKPggXTA6-Nd-GJ-u8M=") ;
+    background-repeat: no-repeat;   
+    background-size: 100% 100%; */
+}
+
+.img_icono {
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+    margin-bottom: -25px;
+}
+
+
+.i_Mas_Informacion {
+    width: 20px;
+    height:20px;
+    border-radius: 20px;
+}
+.info_adicional {
+    margin-left: 30%;
+    text-align: left;
+    overflow: visible;
+}
+#img_info_adic {
+    margin-left: 35%;
+}
+#txt_carta_presentacion {
+    margin-left: 20px;
+    margin-right: 20px;
+}
